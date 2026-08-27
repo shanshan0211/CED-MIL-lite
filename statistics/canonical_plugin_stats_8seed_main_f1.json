@@ -1,0 +1,83 @@
+{
+  "metric": "macro_f1",
+  "tags": [
+    "abmil_base",
+    "abmil_plugin",
+    "transmil_base",
+    "transmil_plugin"
+  ],
+  "seeds": [
+    0,
+    7,
+    42,
+    123,
+    256,
+    314,
+    1024,
+    2024
+  ],
+  "bootstrap_ci": {
+    "abmil_base": {
+      "mean": 0.5157756852990742,
+      "ci_low": 0.48130813110905024,
+      "ci_high": 0.5497017356218179,
+      "n": 40,
+      "n_boot": 5000
+    },
+    "abmil_plugin": {
+      "mean": 0.502691844001372,
+      "ci_low": 0.4715183432884412,
+      "ci_high": 0.5335939164031605,
+      "n": 40,
+      "n_boot": 5000
+    },
+    "transmil_base": {
+      "mean": 0.5314803138570007,
+      "ci_low": 0.49956658532212367,
+      "ci_high": 0.563282500367479,
+      "n": 40,
+      "n_boot": 5000
+    },
+    "transmil_plugin": {
+      "mean": 0.5248029162033564,
+      "ci_low": 0.49571343606612217,
+      "ci_high": 0.5544299000646665,
+      "n": 40,
+      "n_boot": 5000
+    }
+  },
+  "paired": {
+    "abmil_plugin vs abmil_base": {
+      "n_pairs": 40,
+      "permutation": {
+        "mean_delta": -0.013083841297702337,
+        "p_two_sided": 0.5482,
+        "n_pairs": 40,
+        "n_perm": 20000
+      },
+      "bootstrap_paired_delta": {
+        "mean_delta": -0.013083841297702337,
+        "ci_low": -0.05370355021350584,
+        "ci_high": 0.027303390790708898,
+        "n_pairs": 40,
+        "n_boot": 5000
+      }
+    },
+    "transmil_plugin vs transmil_base": {
+      "n_pairs": 40,
+      "permutation": {
+        "mean_delta": -0.00667739765364411,
+        "p_two_sided": 0.69925,
+        "n_pairs": 40,
+        "n_perm": 20000
+      },
+      "bootstrap_paired_delta": {
+        "mean_delta": -0.00667739765364411,
+        "ci_low": -0.042601649448486406,
+        "ci_high": 0.025012269210512625,
+        "n_pairs": 40,
+        "n_boot": 5000
+      }
+    }
+  }
+}

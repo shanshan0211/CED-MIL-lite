@@ -1,0 +1,16 @@
+{
+  "metric": "auc",
+  "tags": [
+    "abmil_base",
+    "abmil_plugin",
+    "transmil_base",
+    "transmil_plugin"
+  ],
+  "seeds": [
+    0,
+    7,
+    42
+  ],
+  "bootstrap_ci": {},
+  "paired": {}
+}
