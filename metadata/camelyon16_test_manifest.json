@@ -1,0 +1,1045 @@
+{
+  "slides": [
+    {
+      "slide_id": "camelyon16_test_000",
+      "patient_id": "camelyon16_test_000",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_001",
+      "patient_id": "camelyon16_test_001",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_002",
+      "patient_id": "camelyon16_test_002",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_003",
+      "patient_id": "camelyon16_test_003",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_004",
+      "patient_id": "camelyon16_test_004",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_005",
+      "patient_id": "camelyon16_test_005",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_006",
+      "patient_id": "camelyon16_test_006",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_007",
+      "patient_id": "camelyon16_test_007",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_008",
+      "patient_id": "camelyon16_test_008",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_009",
+      "patient_id": "camelyon16_test_009",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_010",
+      "patient_id": "camelyon16_test_010",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_011",
+      "patient_id": "camelyon16_test_011",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_012",
+      "patient_id": "camelyon16_test_012",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_013",
+      "patient_id": "camelyon16_test_013",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_014",
+      "patient_id": "camelyon16_test_014",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_015",
+      "patient_id": "camelyon16_test_015",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_016",
+      "patient_id": "camelyon16_test_016",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_017",
+      "patient_id": "camelyon16_test_017",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_018",
+      "patient_id": "camelyon16_test_018",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_019",
+      "patient_id": "camelyon16_test_019",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 968,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_020",
+      "patient_id": "camelyon16_test_020",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_021",
+      "patient_id": "camelyon16_test_021",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_022",
+      "patient_id": "camelyon16_test_022",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_023",
+      "patient_id": "camelyon16_test_023",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_024",
+      "patient_id": "camelyon16_test_024",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_025",
+      "patient_id": "camelyon16_test_025",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_026",
+      "patient_id": "camelyon16_test_026",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_027",
+      "patient_id": "camelyon16_test_027",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_028",
+      "patient_id": "camelyon16_test_028",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_029",
+      "patient_id": "camelyon16_test_029",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_030",
+      "patient_id": "camelyon16_test_030",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_031",
+      "patient_id": "camelyon16_test_031",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_032",
+      "patient_id": "camelyon16_test_032",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_033",
+      "patient_id": "camelyon16_test_033",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_034",
+      "patient_id": "camelyon16_test_034",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_035",
+      "patient_id": "camelyon16_test_035",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_036",
+      "patient_id": "camelyon16_test_036",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_037",
+      "patient_id": "camelyon16_test_037",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_038",
+      "patient_id": "camelyon16_test_038",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_039",
+      "patient_id": "camelyon16_test_039",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_040",
+      "patient_id": "camelyon16_test_040",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_041",
+      "patient_id": "camelyon16_test_041",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_042",
+      "patient_id": "camelyon16_test_042",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_043",
+      "patient_id": "camelyon16_test_043",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_044",
+      "patient_id": "camelyon16_test_044",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_045",
+      "patient_id": "camelyon16_test_045",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_046",
+      "patient_id": "camelyon16_test_046",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_047",
+      "patient_id": "camelyon16_test_047",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_048",
+      "patient_id": "camelyon16_test_048",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_049",
+      "patient_id": "camelyon16_test_049",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_050",
+      "patient_id": "camelyon16_test_050",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_051",
+      "patient_id": "camelyon16_test_051",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_052",
+      "patient_id": "camelyon16_test_052",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_053",
+      "patient_id": "camelyon16_test_053",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_054",
+      "patient_id": "camelyon16_test_054",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_055",
+      "patient_id": "camelyon16_test_055",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_056",
+      "patient_id": "camelyon16_test_056",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_057",
+      "patient_id": "camelyon16_test_057",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_058",
+      "patient_id": "camelyon16_test_058",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_059",
+      "patient_id": "camelyon16_test_059",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_060",
+      "patient_id": "camelyon16_test_060",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_061",
+      "patient_id": "camelyon16_test_061",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_062",
+      "patient_id": "camelyon16_test_062",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_063",
+      "patient_id": "camelyon16_test_063",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_064",
+      "patient_id": "camelyon16_test_064",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_065",
+      "patient_id": "camelyon16_test_065",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_066",
+      "patient_id": "camelyon16_test_066",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_067",
+      "patient_id": "camelyon16_test_067",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_068",
+      "patient_id": "camelyon16_test_068",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_069",
+      "patient_id": "camelyon16_test_069",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_070",
+      "patient_id": "camelyon16_test_070",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_071",
+      "patient_id": "camelyon16_test_071",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_072",
+      "patient_id": "camelyon16_test_072",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_073",
+      "patient_id": "camelyon16_test_073",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_074",
+      "patient_id": "camelyon16_test_074",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_075",
+      "patient_id": "camelyon16_test_075",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_076",
+      "patient_id": "camelyon16_test_076",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_077",
+      "patient_id": "camelyon16_test_077",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_078",
+      "patient_id": "camelyon16_test_078",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_079",
+      "patient_id": "camelyon16_test_079",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_080",
+      "patient_id": "camelyon16_test_080",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_081",
+      "patient_id": "camelyon16_test_081",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_082",
+      "patient_id": "camelyon16_test_082",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_083",
+      "patient_id": "camelyon16_test_083",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_084",
+      "patient_id": "camelyon16_test_084",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_085",
+      "patient_id": "camelyon16_test_085",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_086",
+      "patient_id": "camelyon16_test_086",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_087",
+      "patient_id": "camelyon16_test_087",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_088",
+      "patient_id": "camelyon16_test_088",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_089",
+      "patient_id": "camelyon16_test_089",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_090",
+      "patient_id": "camelyon16_test_090",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_091",
+      "patient_id": "camelyon16_test_091",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_092",
+      "patient_id": "camelyon16_test_092",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_093",
+      "patient_id": "camelyon16_test_093",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_094",
+      "patient_id": "camelyon16_test_094",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_095",
+      "patient_id": "camelyon16_test_095",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_096",
+      "patient_id": "camelyon16_test_096",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_097",
+      "patient_id": "camelyon16_test_097",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_098",
+      "patient_id": "camelyon16_test_098",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_099",
+      "patient_id": "camelyon16_test_099",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_100",
+      "patient_id": "camelyon16_test_100",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_101",
+      "patient_id": "camelyon16_test_101",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_102",
+      "patient_id": "camelyon16_test_102",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_103",
+      "patient_id": "camelyon16_test_103",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_104",
+      "patient_id": "camelyon16_test_104",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_105",
+      "patient_id": "camelyon16_test_105",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_106",
+      "patient_id": "camelyon16_test_106",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_107",
+      "patient_id": "camelyon16_test_107",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_108",
+      "patient_id": "camelyon16_test_108",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_109",
+      "patient_id": "camelyon16_test_109",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_110",
+      "patient_id": "camelyon16_test_110",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_111",
+      "patient_id": "camelyon16_test_111",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_112",
+      "patient_id": "camelyon16_test_112",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_113",
+      "patient_id": "camelyon16_test_113",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_114",
+      "patient_id": "camelyon16_test_114",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_115",
+      "patient_id": "camelyon16_test_115",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_116",
+      "patient_id": "camelyon16_test_116",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_117",
+      "patient_id": "camelyon16_test_117",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_118",
+      "patient_id": "camelyon16_test_118",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_119",
+      "patient_id": "camelyon16_test_119",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_120",
+      "patient_id": "camelyon16_test_120",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_121",
+      "patient_id": "camelyon16_test_121",
+      "label": "tumor",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_122",
+      "patient_id": "camelyon16_test_122",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_123",
+      "patient_id": "camelyon16_test_123",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_124",
+      "patient_id": "camelyon16_test_124",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_125",
+      "patient_id": "camelyon16_test_125",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_126",
+      "patient_id": "camelyon16_test_126",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_127",
+      "patient_id": "camelyon16_test_127",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_128",
+      "patient_id": "camelyon16_test_128",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_test_129",
+      "patient_id": "camelyon16_test_129",
+      "label": "normal",
+      "partition": "test",
+      "n_patches": 1000,
+      "feature_dim": 771
+    }
+  ]
+}
+

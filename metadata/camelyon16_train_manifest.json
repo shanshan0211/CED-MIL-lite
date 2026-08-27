@@ -1,0 +1,2157 @@
+{
+  "slides": [
+    {
+      "slide_id": "camelyon16_train_000",
+      "patient_id": "camelyon16_train_000",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_001",
+      "patient_id": "camelyon16_train_001",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_002",
+      "patient_id": "camelyon16_train_002",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_003",
+      "patient_id": "camelyon16_train_003",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_004",
+      "patient_id": "camelyon16_train_004",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_005",
+      "patient_id": "camelyon16_train_005",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_006",
+      "patient_id": "camelyon16_train_006",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_007",
+      "patient_id": "camelyon16_train_007",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_008",
+      "patient_id": "camelyon16_train_008",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_009",
+      "patient_id": "camelyon16_train_009",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_010",
+      "patient_id": "camelyon16_train_010",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_011",
+      "patient_id": "camelyon16_train_011",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_012",
+      "patient_id": "camelyon16_train_012",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_013",
+      "patient_id": "camelyon16_train_013",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_014",
+      "patient_id": "camelyon16_train_014",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_015",
+      "patient_id": "camelyon16_train_015",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_016",
+      "patient_id": "camelyon16_train_016",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_017",
+      "patient_id": "camelyon16_train_017",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_018",
+      "patient_id": "camelyon16_train_018",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_019",
+      "patient_id": "camelyon16_train_019",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_020",
+      "patient_id": "camelyon16_train_020",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_021",
+      "patient_id": "camelyon16_train_021",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_022",
+      "patient_id": "camelyon16_train_022",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_023",
+      "patient_id": "camelyon16_train_023",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_024",
+      "patient_id": "camelyon16_train_024",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_025",
+      "patient_id": "camelyon16_train_025",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_026",
+      "patient_id": "camelyon16_train_026",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_027",
+      "patient_id": "camelyon16_train_027",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_028",
+      "patient_id": "camelyon16_train_028",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_029",
+      "patient_id": "camelyon16_train_029",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_030",
+      "patient_id": "camelyon16_train_030",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_031",
+      "patient_id": "camelyon16_train_031",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_032",
+      "patient_id": "camelyon16_train_032",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_033",
+      "patient_id": "camelyon16_train_033",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_034",
+      "patient_id": "camelyon16_train_034",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_035",
+      "patient_id": "camelyon16_train_035",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_036",
+      "patient_id": "camelyon16_train_036",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_037",
+      "patient_id": "camelyon16_train_037",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_038",
+      "patient_id": "camelyon16_train_038",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_039",
+      "patient_id": "camelyon16_train_039",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_040",
+      "patient_id": "camelyon16_train_040",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_041",
+      "patient_id": "camelyon16_train_041",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_042",
+      "patient_id": "camelyon16_train_042",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_043",
+      "patient_id": "camelyon16_train_043",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_044",
+      "patient_id": "camelyon16_train_044",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_045",
+      "patient_id": "camelyon16_train_045",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_046",
+      "patient_id": "camelyon16_train_046",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_047",
+      "patient_id": "camelyon16_train_047",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_048",
+      "patient_id": "camelyon16_train_048",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_049",
+      "patient_id": "camelyon16_train_049",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_050",
+      "patient_id": "camelyon16_train_050",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_051",
+      "patient_id": "camelyon16_train_051",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_052",
+      "patient_id": "camelyon16_train_052",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_053",
+      "patient_id": "camelyon16_train_053",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_054",
+      "patient_id": "camelyon16_train_054",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_055",
+      "patient_id": "camelyon16_train_055",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_056",
+      "patient_id": "camelyon16_train_056",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_057",
+      "patient_id": "camelyon16_train_057",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_058",
+      "patient_id": "camelyon16_train_058",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_059",
+      "patient_id": "camelyon16_train_059",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_060",
+      "patient_id": "camelyon16_train_060",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_061",
+      "patient_id": "camelyon16_train_061",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_062",
+      "patient_id": "camelyon16_train_062",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_063",
+      "patient_id": "camelyon16_train_063",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_064",
+      "patient_id": "camelyon16_train_064",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_065",
+      "patient_id": "camelyon16_train_065",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_066",
+      "patient_id": "camelyon16_train_066",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_067",
+      "patient_id": "camelyon16_train_067",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_068",
+      "patient_id": "camelyon16_train_068",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_069",
+      "patient_id": "camelyon16_train_069",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_070",
+      "patient_id": "camelyon16_train_070",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_071",
+      "patient_id": "camelyon16_train_071",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_072",
+      "patient_id": "camelyon16_train_072",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_073",
+      "patient_id": "camelyon16_train_073",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_074",
+      "patient_id": "camelyon16_train_074",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_075",
+      "patient_id": "camelyon16_train_075",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_076",
+      "patient_id": "camelyon16_train_076",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_077",
+      "patient_id": "camelyon16_train_077",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_078",
+      "patient_id": "camelyon16_train_078",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_079",
+      "patient_id": "camelyon16_train_079",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_080",
+      "patient_id": "camelyon16_train_080",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_081",
+      "patient_id": "camelyon16_train_081",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_082",
+      "patient_id": "camelyon16_train_082",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_083",
+      "patient_id": "camelyon16_train_083",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_084",
+      "patient_id": "camelyon16_train_084",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_085",
+      "patient_id": "camelyon16_train_085",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_086",
+      "patient_id": "camelyon16_train_086",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_087",
+      "patient_id": "camelyon16_train_087",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_088",
+      "patient_id": "camelyon16_train_088",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_089",
+      "patient_id": "camelyon16_train_089",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_090",
+      "patient_id": "camelyon16_train_090",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_091",
+      "patient_id": "camelyon16_train_091",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_092",
+      "patient_id": "camelyon16_train_092",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_093",
+      "patient_id": "camelyon16_train_093",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_094",
+      "patient_id": "camelyon16_train_094",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_095",
+      "patient_id": "camelyon16_train_095",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_096",
+      "patient_id": "camelyon16_train_096",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_097",
+      "patient_id": "camelyon16_train_097",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_098",
+      "patient_id": "camelyon16_train_098",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_099",
+      "patient_id": "camelyon16_train_099",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_100",
+      "patient_id": "camelyon16_train_100",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_101",
+      "patient_id": "camelyon16_train_101",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_102",
+      "patient_id": "camelyon16_train_102",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_103",
+      "patient_id": "camelyon16_train_103",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_104",
+      "patient_id": "camelyon16_train_104",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_105",
+      "patient_id": "camelyon16_train_105",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_106",
+      "patient_id": "camelyon16_train_106",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_107",
+      "patient_id": "camelyon16_train_107",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_108",
+      "patient_id": "camelyon16_train_108",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_109",
+      "patient_id": "camelyon16_train_109",
+      "label": "tumor",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_110",
+      "patient_id": "camelyon16_train_110",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_111",
+      "patient_id": "camelyon16_train_111",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_112",
+      "patient_id": "camelyon16_train_112",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_113",
+      "patient_id": "camelyon16_train_113",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_114",
+      "patient_id": "camelyon16_train_114",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_115",
+      "patient_id": "camelyon16_train_115",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_116",
+      "patient_id": "camelyon16_train_116",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_117",
+      "patient_id": "camelyon16_train_117",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_118",
+      "patient_id": "camelyon16_train_118",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_119",
+      "patient_id": "camelyon16_train_119",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_120",
+      "patient_id": "camelyon16_train_120",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_121",
+      "patient_id": "camelyon16_train_121",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_122",
+      "patient_id": "camelyon16_train_122",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_123",
+      "patient_id": "camelyon16_train_123",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_124",
+      "patient_id": "camelyon16_train_124",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_125",
+      "patient_id": "camelyon16_train_125",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_126",
+      "patient_id": "camelyon16_train_126",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_127",
+      "patient_id": "camelyon16_train_127",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_128",
+      "patient_id": "camelyon16_train_128",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_129",
+      "patient_id": "camelyon16_train_129",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_130",
+      "patient_id": "camelyon16_train_130",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_131",
+      "patient_id": "camelyon16_train_131",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_132",
+      "patient_id": "camelyon16_train_132",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_133",
+      "patient_id": "camelyon16_train_133",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_134",
+      "patient_id": "camelyon16_train_134",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_135",
+      "patient_id": "camelyon16_train_135",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_136",
+      "patient_id": "camelyon16_train_136",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_137",
+      "patient_id": "camelyon16_train_137",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_138",
+      "patient_id": "camelyon16_train_138",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_139",
+      "patient_id": "camelyon16_train_139",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 253,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_140",
+      "patient_id": "camelyon16_train_140",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_141",
+      "patient_id": "camelyon16_train_141",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_142",
+      "patient_id": "camelyon16_train_142",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_143",
+      "patient_id": "camelyon16_train_143",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_144",
+      "patient_id": "camelyon16_train_144",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_145",
+      "patient_id": "camelyon16_train_145",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_146",
+      "patient_id": "camelyon16_train_146",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_147",
+      "patient_id": "camelyon16_train_147",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_148",
+      "patient_id": "camelyon16_train_148",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_149",
+      "patient_id": "camelyon16_train_149",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_150",
+      "patient_id": "camelyon16_train_150",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_151",
+      "patient_id": "camelyon16_train_151",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_152",
+      "patient_id": "camelyon16_train_152",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 624,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_153",
+      "patient_id": "camelyon16_train_153",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_154",
+      "patient_id": "camelyon16_train_154",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_155",
+      "patient_id": "camelyon16_train_155",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_156",
+      "patient_id": "camelyon16_train_156",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_157",
+      "patient_id": "camelyon16_train_157",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_158",
+      "patient_id": "camelyon16_train_158",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_159",
+      "patient_id": "camelyon16_train_159",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_160",
+      "patient_id": "camelyon16_train_160",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_161",
+      "patient_id": "camelyon16_train_161",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_162",
+      "patient_id": "camelyon16_train_162",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_163",
+      "patient_id": "camelyon16_train_163",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_164",
+      "patient_id": "camelyon16_train_164",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_165",
+      "patient_id": "camelyon16_train_165",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_166",
+      "patient_id": "camelyon16_train_166",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_167",
+      "patient_id": "camelyon16_train_167",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_168",
+      "patient_id": "camelyon16_train_168",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_169",
+      "patient_id": "camelyon16_train_169",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_170",
+      "patient_id": "camelyon16_train_170",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_171",
+      "patient_id": "camelyon16_train_171",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_172",
+      "patient_id": "camelyon16_train_172",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_173",
+      "patient_id": "camelyon16_train_173",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_174",
+      "patient_id": "camelyon16_train_174",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_175",
+      "patient_id": "camelyon16_train_175",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_176",
+      "patient_id": "camelyon16_train_176",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_177",
+      "patient_id": "camelyon16_train_177",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_178",
+      "patient_id": "camelyon16_train_178",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_179",
+      "patient_id": "camelyon16_train_179",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_180",
+      "patient_id": "camelyon16_train_180",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_181",
+      "patient_id": "camelyon16_train_181",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_182",
+      "patient_id": "camelyon16_train_182",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_183",
+      "patient_id": "camelyon16_train_183",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_184",
+      "patient_id": "camelyon16_train_184",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 452,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_185",
+      "patient_id": "camelyon16_train_185",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_186",
+      "patient_id": "camelyon16_train_186",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_187",
+      "patient_id": "camelyon16_train_187",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_188",
+      "patient_id": "camelyon16_train_188",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_189",
+      "patient_id": "camelyon16_train_189",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_190",
+      "patient_id": "camelyon16_train_190",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_191",
+      "patient_id": "camelyon16_train_191",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_192",
+      "patient_id": "camelyon16_train_192",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 282,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_193",
+      "patient_id": "camelyon16_train_193",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_194",
+      "patient_id": "camelyon16_train_194",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_195",
+      "patient_id": "camelyon16_train_195",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_196",
+      "patient_id": "camelyon16_train_196",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_197",
+      "patient_id": "camelyon16_train_197",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_198",
+      "patient_id": "camelyon16_train_198",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_199",
+      "patient_id": "camelyon16_train_199",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 439,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_200",
+      "patient_id": "camelyon16_train_200",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_201",
+      "patient_id": "camelyon16_train_201",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_202",
+      "patient_id": "camelyon16_train_202",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 885,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_203",
+      "patient_id": "camelyon16_train_203",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_204",
+      "patient_id": "camelyon16_train_204",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_205",
+      "patient_id": "camelyon16_train_205",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_206",
+      "patient_id": "camelyon16_train_206",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_207",
+      "patient_id": "camelyon16_train_207",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_208",
+      "patient_id": "camelyon16_train_208",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_209",
+      "patient_id": "camelyon16_train_209",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_210",
+      "patient_id": "camelyon16_train_210",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_211",
+      "patient_id": "camelyon16_train_211",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_212",
+      "patient_id": "camelyon16_train_212",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_213",
+      "patient_id": "camelyon16_train_213",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_214",
+      "patient_id": "camelyon16_train_214",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_215",
+      "patient_id": "camelyon16_train_215",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_216",
+      "patient_id": "camelyon16_train_216",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_217",
+      "patient_id": "camelyon16_train_217",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_218",
+      "patient_id": "camelyon16_train_218",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_219",
+      "patient_id": "camelyon16_train_219",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_220",
+      "patient_id": "camelyon16_train_220",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_221",
+      "patient_id": "camelyon16_train_221",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_222",
+      "patient_id": "camelyon16_train_222",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_223",
+      "patient_id": "camelyon16_train_223",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_224",
+      "patient_id": "camelyon16_train_224",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_225",
+      "patient_id": "camelyon16_train_225",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_226",
+      "patient_id": "camelyon16_train_226",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_227",
+      "patient_id": "camelyon16_train_227",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 131,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_228",
+      "patient_id": "camelyon16_train_228",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_229",
+      "patient_id": "camelyon16_train_229",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_230",
+      "patient_id": "camelyon16_train_230",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 162,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_231",
+      "patient_id": "camelyon16_train_231",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_232",
+      "patient_id": "camelyon16_train_232",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_233",
+      "patient_id": "camelyon16_train_233",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_234",
+      "patient_id": "camelyon16_train_234",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_235",
+      "patient_id": "camelyon16_train_235",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_236",
+      "patient_id": "camelyon16_train_236",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_237",
+      "patient_id": "camelyon16_train_237",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_238",
+      "patient_id": "camelyon16_train_238",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_239",
+      "patient_id": "camelyon16_train_239",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_240",
+      "patient_id": "camelyon16_train_240",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 123,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_241",
+      "patient_id": "camelyon16_train_241",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_242",
+      "patient_id": "camelyon16_train_242",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_243",
+      "patient_id": "camelyon16_train_243",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 516,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_244",
+      "patient_id": "camelyon16_train_244",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_245",
+      "patient_id": "camelyon16_train_245",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_246",
+      "patient_id": "camelyon16_train_246",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_247",
+      "patient_id": "camelyon16_train_247",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_248",
+      "patient_id": "camelyon16_train_248",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_249",
+      "patient_id": "camelyon16_train_249",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 519,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_250",
+      "patient_id": "camelyon16_train_250",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_251",
+      "patient_id": "camelyon16_train_251",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_252",
+      "patient_id": "camelyon16_train_252",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_253",
+      "patient_id": "camelyon16_train_253",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_254",
+      "patient_id": "camelyon16_train_254",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 686,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_255",
+      "patient_id": "camelyon16_train_255",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_256",
+      "patient_id": "camelyon16_train_256",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_257",
+      "patient_id": "camelyon16_train_257",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_258",
+      "patient_id": "camelyon16_train_258",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_259",
+      "patient_id": "camelyon16_train_259",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_260",
+      "patient_id": "camelyon16_train_260",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_261",
+      "patient_id": "camelyon16_train_261",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_262",
+      "patient_id": "camelyon16_train_262",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_263",
+      "patient_id": "camelyon16_train_263",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 887,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_264",
+      "patient_id": "camelyon16_train_264",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_265",
+      "patient_id": "camelyon16_train_265",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_266",
+      "patient_id": "camelyon16_train_266",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_267",
+      "patient_id": "camelyon16_train_267",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    },
+    {
+      "slide_id": "camelyon16_train_268",
+      "patient_id": "camelyon16_train_268",
+      "label": "normal",
+      "partition": "train",
+      "n_patches": 1000,
+      "feature_dim": 771
+    }
+  ]
+}
+
