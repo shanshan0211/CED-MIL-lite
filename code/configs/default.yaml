@@ -1,0 +1,122 @@
+dataset:
+  dataset_root: data/raw_wsi
+  manifest_path: metadata/REPLACE_WITH_SELECTED_MANIFEST.json
+  feature_dir: data/features/REPLACE_WITH_ENCODER
+  label_key: project_code
+  patch_feature_dim: 1024
+  max_patches: 16384
+  patch_size: 256
+  patch_stride: 256
+  tissue_thumbnail_max_size: 2048
+  tissue_saturation_threshold: 0.06
+  tissue_value_threshold: 0.95
+  load_coords: true
+
+model:
+  input_dim: 1024
+  hidden_dim: 512
+  num_heads: 8
+  region_size: 64
+  max_regions: 256
+  retrieval_topk: 8
+  latent_tokens: 16
+  global_layers: 4
+  dropout: 0.1
+  num_classes: 8
+  # SOTA: spatial positional encoding from patch coordinates
+  use_positional_encoding: true
+  # SOTA: multi-scale region hierarchy (fine + coarse)
+  use_multi_scale: true
+  coarse_scale_factor: 4
+  # SOTA: Mamba-Transformer hybrid global encoder
+  use_ssm: true
+  ssm_d_state: 16
+  ssm_d_conv: 4
+  ssm_expand: 2
+  # SOTA: Mixture-of-Experts for tissue-type specialization
+  use_moe: true
+  num_experts: 8
+  moe_topk: 2
+  moe_aux_weight: 0.01
+  # SOTA: residual branch for discarded regions
+  use_residual_branch: true
+  # SOTA: feature-level augmentation during training
+  feature_augmentation: true
+  aug_mask_ratio: 0.1
+  aug_noise_std: 0.01
+  # Beyond-SOTA: spatial k-NN graph attention on region tokens
+  use_graph_attention: true
+  graph_k_neighbors: 8
+  # Beyond-SOTA: register tokens (Darcet 2024)
+  num_register_tokens: 4
+  # Beyond-SOTA: stochastic depth in global encoder
+  drop_path_rate: 0.1
+  # Beyond-SOTA: supervised contrastive projection head
+  use_contrastive_head: true
+  contrastive_proj_dim: 128
+  # Beyond-SOTA v2: learnable attention pooling
+  use_attention_pooling: true
+  attention_pool_queries: 4
+  # Beyond-SOTA v3: token merging, QK-Norm, LayerScale
+  use_token_merging: true
+  token_merge_ratio: 0.25
+  use_qk_norm: true
+  layer_scale_init: 0.0001
+
+training:
+  batch_size: 2
+  epochs: 30
+  learning_rate: 0.0002
+  weight_decay: 0.05
+  num_workers: 0
+  device: cuda
+  # SOTA: focal loss with label smoothing for class imbalance
+  use_focal_loss: true
+  focal_gamma: 2.0
+  label_smoothing: 0.1
+  # SOTA: cosine annealing with linear warmup
+  warmup_epochs: 3
+  min_lr: 0.000001
+  # SOTA: gradient clipping
+  gradient_clip_max_norm: 1.0
+  # SOTA: automatic mixed precision
+  use_amp: true
+  # SOTA: exponential moving average
+  use_ema: true
+  ema_decay: 0.999
+  # SOTA: gradient accumulation for effective larger batches
+  gradient_accumulation_steps: 4
+  # SOTA: GradTail long-tail gradient compensation
+  use_gradtail: true
+  gradtail_momentum: 0.9
+  gradtail_min_weight: 0.5
+  gradtail_max_weight: 3.0
+  # Beyond-SOTA: Sharpness-Aware Minimization
+  use_sam: true
+  sam_rho: 0.05
+  # Beyond-SOTA: R-Drop regularization
+  use_rdrop: true
+  rdrop_alpha: 1.0
+  # Beyond-SOTA: supervised contrastive auxiliary loss
+  use_supcon: true
+  supcon_weight: 0.1
+  supcon_temperature: 0.07
+  # Beyond-SOTA: stochastic weight averaging
+  use_swa: true
+  swa_start_frac: 0.75
+  # Beyond-SOTA: test-time augmentation
+  tta_passes: 5
+  # Beyond-SOTA v2: asymmetric loss (alternative to focal for extreme long-tail)
+  use_asymmetric_loss: false
+  asl_gamma_pos: 0.0
+  asl_gamma_neg: 4.0
+  asl_clip: 0.05
+  # Beyond-SOTA v2: feature-level MixUp
+  use_mixup: true
+  mixup_alpha: 0.4
+  # Beyond-SOTA v3: self-distillation, gradient centralization
+  use_self_distillation: true
+  distill_temperature: 4.0
+  distill_alpha: 0.5
+  use_gradient_centralization: true
+
