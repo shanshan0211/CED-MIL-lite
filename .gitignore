@@ -1,0 +1,44 @@
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Raw pathology data and derived feature tensors
+data/
+*.svs
+*.tif
+*.tiff
+*.ndpi
+*.mrxs
+*.npy
+*.npz
+*.h5
+*.hdf5
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+pytorch_model.bin
+
+# Credentials and machine-local configuration
+.env
+*.token
+token.txt
+secrets.*
+
+# Build products and logs
+build/
+dist/
+*.egg-info/
+*.log

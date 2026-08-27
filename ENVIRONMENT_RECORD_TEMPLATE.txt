@@ -1,0 +1,17 @@
+Environment record for the reported experiments and reference reproduction environment
+
+Operating system: Ubuntu Linux
+CPU: not recorded in the retained experiment files
+RAM: not recorded in the retained experiment files
+GPU: NVIDIA GeForce RTX 5090
+GPU memory: 32 GB
+Python: 3.11 (reference reproduction environment; project requires >=3.11)
+PyTorch: 2.7 (reference reproduction environment; project requires >=2.2)
+CUDA: 12.8 (reference reproduction environment for RTX 5090)
+cuDNN: supplied by the selected PyTorch CUDA distribution; exact retained-run version not recorded
+OpenSlide:
+Phikon-v2 model identifier/version:
+UNI model identifier/version:
+
+Source of record (for example, nvidia-smi, python package output, or a saved environment file):
+Date recorded:
