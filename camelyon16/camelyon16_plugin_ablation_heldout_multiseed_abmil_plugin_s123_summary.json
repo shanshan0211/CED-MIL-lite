@@ -1,0 +1,23 @@
+{
+  "type": "heldout_test",
+  "model": "abmil",
+  "label_key": "label",
+  "seed": 123,
+  "early_metric": "auc",
+  "best_epoch": 46,
+  "fit_size": 229,
+  "val_size": 40,
+  "test_size": 130,
+  "train_manifest": "artifacts/manifest_camelyon16_train.json",
+  "test_manifest": "artifacts/manifest_camelyon16_test.json",
+  "label_to_index": {
+    "normal": 0,
+    "tumor": 1
+  },
+  "loss": 0.4242196219471785,
+  "acc": 0.8692307692307693,
+  "macro_f1": 0.8514285714285714,
+  "balanced_acc": 0.83375,
+  "auc": 0.9175000190734863,
+  "count": 130
+}

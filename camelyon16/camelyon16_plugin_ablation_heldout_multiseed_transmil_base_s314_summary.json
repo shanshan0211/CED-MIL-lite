@@ -1,0 +1,23 @@
+{
+  "type": "heldout_test",
+  "model": "transmil",
+  "label_key": "label",
+  "seed": 314,
+  "early_metric": "auc",
+  "best_epoch": 6,
+  "fit_size": 229,
+  "val_size": 40,
+  "test_size": 130,
+  "train_manifest": "artifacts/manifest_camelyon16_train.json",
+  "test_manifest": "artifacts/manifest_camelyon16_test.json",
+  "label_to_index": {
+    "normal": 0,
+    "tumor": 1
+  },
+  "loss": 0.7485531845918069,
+  "acc": 0.38461538461538464,
+  "macro_f1": 0.2777777777777778,
+  "balanced_acc": 0.5,
+  "auc": 0.5372499823570251,
+  "count": 130
+}
