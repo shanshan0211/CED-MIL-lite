@@ -1,0 +1,105 @@
+{
+  "metrics": [
+    "auc",
+    "macro_f1",
+    "balanced_acc"
+  ],
+  "tags": [
+    "abmil_base",
+    "abmil_plugin",
+    "transmil_base",
+    "transmil_plugin"
+  ],
+  "labels": [
+    "ABMIL Baseline",
+    "ABMIL + CED Plugin",
+    "TransMIL Baseline",
+    "TransMIL + CED Plugin"
+  ],
+  "seeds": [
+    0,
+    7,
+    42
+  ],
+  "title": "MUC vs NOS auxiliary task (5-fold x 3-seed)",
+  "results": {
+    "auc": {
+      "abmil_base": {
+        "mean": 0.6736520181099573,
+        "ci_low": 0.5958143267035485,
+        "ci_high": 0.7524452246973911,
+        "n": 15
+      },
+      "abmil_plugin": {
+        "mean": 0.6515344483777881,
+        "ci_low": 0.5495517233619467,
+        "ci_high": 0.7488789815455675,
+        "n": 16
+      },
+      "transmil_base": {
+        "mean": 0.5730651062913239,
+        "ci_low": 0.4344256062991917,
+        "ci_high": 0.7091135027701965,
+        "n": 16
+      },
+      "transmil_plugin": {
+        "mean": 0.596497600277265,
+        "ci_low": 0.5170621276108756,
+        "ci_high": 0.6750429952103231,
+        "n": 18
+      }
+    },
+    "macro_f1": {
+      "abmil_base": {
+        "mean": 0.5220982531624947,
+        "ci_low": 0.4673334159518371,
+        "ci_high": 0.5807926154525419,
+        "n": 15
+      },
+      "abmil_plugin": {
+        "mean": 0.5069258763020011,
+        "ci_low": 0.45878999509001234,
+        "ci_high": 0.5587511980754992,
+        "n": 16
+      },
+      "transmil_base": {
+        "mean": 0.5068866695190741,
+        "ci_low": 0.45377619294296945,
+        "ci_high": 0.5637788930687182,
+        "n": 16
+      },
+      "transmil_plugin": {
+        "mean": 0.49344579887110346,
+        "ci_low": 0.4488295846859192,
+        "ci_high": 0.5456542841358061,
+        "n": 18
+      }
+    },
+    "balanced_acc": {
+      "abmil_base": {
+        "mean": 0.5761259026777602,
+        "ci_low": 0.5040702360397601,
+        "ci_high": 0.6542502257481938,
+        "n": 15
+      },
+      "abmil_plugin": {
+        "mean": 0.5638755371413072,
+        "ci_low": 0.48822720384754775,
+        "ci_high": 0.6444293878461472,
+        "n": 16
+      },
+      "transmil_base": {
+        "mean": 0.5630990803035114,
+        "ci_low": 0.49528426907200124,
+        "ci_high": 0.642031662941408,
+        "n": 16
+      },
+      "transmil_plugin": {
+        "mean": 0.5382381738870387,
+        "ci_low": 0.48401360101695495,
+        "ci_high": 0.6055685313842885,
+        "n": 18
+      }
+    }
+  }
+}
